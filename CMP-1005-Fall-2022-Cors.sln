@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP-1005-Fall-2022-Cors", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsWebDemo", "CorsWebDemo\CorsWebDemo.csproj", "{3AF30F7E-BFC3-4A92-ABE0-889050C49F7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoModels", "DemoModels\DemoModels.csproj", "{6D51FAD1-D3D3-49FC-8E5B-F48FF6D012E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3AF30F7E-BFC3-4A92-ABE0-889050C49F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF30F7E-BFC3-4A92-ABE0-889050C49F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF30F7E-BFC3-4A92-ABE0-889050C49F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D51FAD1-D3D3-49FC-8E5B-F48FF6D012E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D51FAD1-D3D3-49FC-8E5B-F48FF6D012E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D51FAD1-D3D3-49FC-8E5B-F48FF6D012E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D51FAD1-D3D3-49FC-8E5B-F48FF6D012E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
